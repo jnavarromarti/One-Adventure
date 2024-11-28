@@ -52,7 +52,7 @@ El futuro de One Adventure incluye:
 
 ## Premios y nominaciones
 
-### One Adventure ha sido nominado a los premios ODS de la Agenda 2030 para los mejores TFG y TFM de Cataluña, por dar visibilidad a la salud mental y la lucha contra la misma a través de los videojuegos.
+### One Adventure ha sido nominado a los premios ODS de la Agenda 2030 para los mejores TFG y TFM de Cataluña por dar visibilidad a la salud mental y la lucha contra la misma a través de los videojuegos.
 
 ## Contacto
 ¡Gracias por tomarte el tiempo de leer sobre One Adventure! Este proyecto representa una parte importante de mi crecimiento profesional y personal, y estoy emocionado por el futuro que tiene por delante.
