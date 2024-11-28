@@ -41,7 +41,7 @@ La versión actual incluye:
 - **Mecánicas principales: ataque, esquivar, y resolución de puzles.**
 - **Introducción a la narrativa y misiones secundarias básicas.**
 
-##Próximos Pasos
+## Próximos Pasos
 El futuro de One Adventure incluye:
 
 1. Migrar el proyecto de 2D a 3D, manteniendo la esencia del estilo pixel art adaptado a entornos tridimensionales.
@@ -50,9 +50,9 @@ El futuro de One Adventure incluye:
 4. Continuar la narrativa, expandiendo la historia y añadiendo profundidad emocional.
 5. Realizar un rework visual del proyecto para mejorar gráficos y animaciones.
 
-##Premios y nominaciones
+## Premios y nominaciones
 
-###One Adventure ha sido nominado a los premios ODS de la Agenda 2030 para los mejores TFG y TFM de Cataluña, por dar visibilidad a la salud mental y la lucha contra la misma a través de los videojuegos.
+### One Adventure ha sido nominado a los premios ODS de la Agenda 2030 para los mejores TFG y TFM de Cataluña, por dar visibilidad a la salud mental y la lucha contra la misma a través de los videojuegos.
 
 ##Contacto
 ¡Gracias por tomarte el tiempo de leer sobre One Adventure! Este proyecto representa una parte importante de mi crecimiento profesional y personal, y estoy emocionado por el futuro que tiene por delante.
