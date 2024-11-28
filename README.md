@@ -33,12 +33,14 @@ La historia sigue a un héroe que debe enfrentarse a sus propios demonios intern
 - **Aseprite:** Creación de sprites y animaciones en estilo pixel art.  
 - **Adobe Photoshop:** Apoyo para diseño gráfico y efectos visuales.  
 - **Visual Studio Code:** Desarrollo del código fuente en C#.  
+
 ## Estado Actual del Proyecto
 El desarrollo de One Adventure se encuentra actualmente en pausa.
 La versión actual incluye:
 - **Una primera área jugable: Bosque de Lune.**
 - **Mecánicas principales: ataque, esquivar, y resolución de puzles.**
 - **Introducción a la narrativa y misiones secundarias básicas.**
+
 ##Próximos Pasos
 El futuro de One Adventure incluye:
 
@@ -49,7 +51,7 @@ El futuro de One Adventure incluye:
 5. Realizar un rework visual del proyecto para mejorar gráficos y animaciones.
 
 ##Premios y nominaciones
-###One Adventure ha sido nominado a los premios ODS de la Agenda 2030 para los mejores TFG y TFM de Cataluña, por dar visibilidad a la salud mental y la lucha contra la misma a través de los videojuegos.###
+###One Adventure ha sido nominado a los premios ODS de la Agenda 2030 para los mejores TFG y TFM de Cataluña, por dar visibilidad a la salud mental y la lucha contra la misma a través de los videojuegos.
 
 ##Contacto
 ¡Gracias por tomarte el tiempo de leer sobre One Adventure! Este proyecto representa una parte importante de mi crecimiento profesional y personal, y estoy emocionado por el futuro que tiene por delante.
